@@ -10,7 +10,7 @@
 
 ## 🌀 A little more about me:
 
-typescript
+```typescript
 class Gabriel extends Human {
   name: string;
   nationality: string;
@@ -23,8 +23,7 @@ class Gabriel extends Human {
   
   languages: Array<string> = [
     "Portuguese",
-    "English",
-    ];
+    "English"];
   
   technologies: {
     JavaScript:     ["React.js", "Angular.js", "Vue"];
@@ -34,7 +33,7 @@ class Gabriel extends Human {
     Design:         ["Bulma", "Bootstrap", "AntDesign", "Material-UI", "Kendo-UI"];
     CloudComputing: ["Serverless", "Amplify", "AWS", "Docker", "Kubernetes"];
   };
-}
+}```
 
 
 ---
