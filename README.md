@@ -32,10 +32,9 @@ class Gabriel extends Human {
     Events:         ["RabbitMQ", "Kafka", "Redis"];
     Design:         ["Bulma", "Bootstrap", "AntDesign", "Material-UI", "Kendo-UI"];
     CloudComputing: ["Serverless", "Amplify", "AWS", "Docker", "Kubernetes"];
-  };
-}```
-
-
+  };  
+}
+```
 ---
 ## ❄️ Current Personal Projects:
 
@@ -43,4 +42,4 @@ class Gabriel extends Human {
 - JavaScript Apps
 
 
-💬 Ask me about anything written using JavaScript and Python
+`💬 Ask me about anything written using JavaScript and Python`
