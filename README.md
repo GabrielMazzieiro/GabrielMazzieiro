@@ -23,7 +23,8 @@ class Gabriel extends Human {
   
   languages: Array<string> = [
     "Portuguese",
-    "English"];
+    "English"
+  ];
   
   technologies: {
     JavaScript:     ["React.js", "Angular.js", "Vue"];
